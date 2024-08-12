@@ -1,1 +1,7 @@
 # AI-assistant-for-desktop
+This project proposes the development of an AI-powered desktop virtual assistant built using Python and Tkinter. The assistant aims to streamline user interaction with their computer by leveraging natural language processing (NLP) and speech recognition capabilities.
+The core functionality revolves around user interaction through voice commands. The assistant will be trained on a dataset encompassing greetings, commands to launch frequently used applications (e.g., Google Chrome, YouTube, music player), and weather information requests.
+The system architecture will involve three primary components: Speech recognition, Natural Language Processing(NLP) and Action Execution 
+The Tkinter library will be used to create a user-friendly graphical interface for the assistant. This interface can display information retrieved by the assistant, such as weather updates, or provide visual cues during interaction.
+The success of this project will be measured by the accuracy of speech recognition, the effectiveness of NLP in understanding user intent, and the overall user experience. The assistant's ability to learn and adapt to user preferences over time can be explored as a potential future development.
+This AI desktop assistant has the potential to significantly enhance user productivity by allowing them to interact with their computer through natural language and voice commands. By automating routine tasks and providing quick access to information, the assistant can free up valuable time and effort for users
